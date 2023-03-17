@@ -1,5 +1,4 @@
 <h1 align="center">Hey! I'm Amilton Cardoso</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amilton23" alt="amilton23" /></a> </p>
 
 - 🌱 I’m currently learning **Computer vision, NLP**
 
