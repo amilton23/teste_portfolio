@@ -1,6 +1,6 @@
 <h1 align="center">Hey! I'm Amilton Cardoso</h1>
 
-- 🌱 I’m currently learning **Computer vision, NLP**
+- 🌱 I’m currently learning **LLM, NLP**
 
 - 📫 How to reach me **amiltoncofh@gmail.com**
 
